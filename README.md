@@ -1,5 +1,5 @@
 # Voteable Gem
 
-Rails gem
+Installation: gem install voteable_bart
 
 Add voting to your web app.
